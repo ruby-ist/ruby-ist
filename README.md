@@ -3,7 +3,7 @@
 ### I'm Sriram V,
 
 
-<img align="right" alt="desk" width="300px" src="./images/programmer.svg">
+<img align="right" alt="desk" width="400px" src="./images/programmer.svg">
 &ensp;
 
 - `Ruby on Rails` & `Vue.js` Developer
@@ -12,11 +12,11 @@
 - Working on my devfolio
 - Checkout my other projects!
 
-&ensp;
-
+<p>
 <a href="https://www.codewars.com/users/Sriram2311">
 <img height="25px" src="https://www.codewars.com/users/Sriram2311/badges/micro">
 </a>
+</p>
 
 <p align="center">
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ruby-ist&theme=vue-dark&hide_border=true">
