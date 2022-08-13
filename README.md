@@ -12,10 +12,12 @@
 - Currently working on my devfolio
 - Checkout my other projects!
 
-![Codewars badge](https://www.codewars.com/users/Sriram2311/badges/micro)
+&ensp;
+
+<img height="25px" src="https://www.codewars.com/users/Sriram2311/badges/micro">
+<img align="right" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ruby-ist&theme=vue-dark&hide_border=true">&ensp;
 
 ### Languages:
-
 <div>
     &ensp;&ensp;&ensp;
     <img alt=".rb" src="./images/ruby.svg" width="32px" /> &ensp;&ensp;
