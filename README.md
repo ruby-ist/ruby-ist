@@ -3,7 +3,7 @@
 ### I'm Sriram V,
 
 
-<img align="right" alt="desk" width="400px" src="./images/programmer.svg">
+<img align="right" alt="desk" width="380px" src="./images/programmer.svg">
 &ensp;
 
 - `Ruby on Rails` & `Vue.js` Developer
@@ -18,7 +18,7 @@
 </a>
 </p>
 
-<p align="center">
+<p align="left">
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ruby-ist&theme=vue-dark&hide_border=true">
 </p>
 
