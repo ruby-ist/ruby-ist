@@ -31,7 +31,7 @@
     &ensp;&ensp;
     <a href="https://www.ruby-lang.org/en/"> <img alt=".rb" src="./images/ruby.svg" width="32px" /></a> &ensp;&ensp;
     <a href=https://rubyonrails.org/"> <img alt=".rails" src="./images/rails.svg" width="32px" /></a> &ensp;&ensp;
-    <a href="https://sinatrarb.com/"> <img alt=".sinatra" src="./images/sinatra.svg" width="32px" /></a> &ensp;&ensp;
+    <a href=https://rubyonrails.org/"> <img alt=".rails" src="./images/rspec.svg" width="32px" /></a> &ensp;&ensp;
     <a href="https://turbo.hotwired.dev/"> <img alt=".turbo" src="./images/turbo.svg" width="32px" /></a> &ensp;&ensp;
     <a href="https://stimulus.hotwired.dev/"> <img alt=".stimulus" src="./images/stimulus.svg" width="32px" /></a>
 </div>
@@ -54,7 +54,8 @@
 </div>
 &ensp;
 <div>
-    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+    &ensp;&ensp;&ensp;
+    <a href="https://sinatrarb.com/"> <img alt=".sinatra" src="./images/sinatra.svg" width="32px" /></a> &ensp;&ensp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img alt=".html" src="./images/html.svg" width="28px" /></a> &ensp;&ensp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img alt=".css" src="./images/css.svg" width="28px" /></a> &ensp;&ensp;
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img alt=".c" src="./images/c.svg" width="32px" /></a> &ensp;&ensp;
