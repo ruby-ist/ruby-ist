@@ -55,7 +55,7 @@
 &ensp;
 <div>
     &ensp;&ensp;&ensp;
-    <a href="https://sinatrarb.com/"> <img alt=".sinatra" src="./images/sinatra.svg" width="32px" /></a> &ensp;&ensp;
+    <a href="https://sinatrarb.com/"> <img alt=".sinatra" src="./images/sinatra.svg" width="32px" /></a> &ensp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img alt=".html" src="./images/html.svg" width="28px" /></a> &ensp;&ensp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img alt=".css" src="./images/css.svg" width="28px" /></a> &ensp;&ensp;
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img alt=".c" src="./images/c.svg" width="32px" /></a> &ensp;&ensp;
@@ -63,13 +63,12 @@
 </div>
 &ensp;
 <div>
-    &ensp;
+    &ensp;&ensp;
     <a href="https://cockroachdb.cloud/"> <img alt=".cockroach" src="./images/cockroach-db.svg" width="26px" /></a> &ensp;
     <a href="https://restfulapi.net/"> <img alt=".rest" src="./images/rest.svg" width="32px" /></a> &ensp;&ensp;
     <a href="https://render.com/"> <img alt=".render" src="./images/render.svg" width="26px" /></a> &ensp;&ensp;
     <a href="https://www.sqlite.org/index.html"> <img alt=".sqlite" src="./images/sqlite.svg" width="56px" /></a> &ensp;
     <a href="https://www.postgresql.org/"> <img alt=".postgres" src="./images/postgres.svg" width="43px" /></a>
-
 </div>
 </div>
 &ensp;
