@@ -62,7 +62,7 @@
 </div>
 &ensp;
 <div>
-    &ensp;&ensp;
+    &ensp;
     <a href="https://cockroachdb.cloud/"> <img alt=".cockroach" src="./images/cockroach-db.svg" width="26px" /></a> &ensp;
     <a href="https://restfulapi.net/"> <img alt=".rest" src="./images/rest.svg" width="32px" /></a> &ensp;&ensp;
     <a href="https://render.com/"> <img alt=".render" src="./images/render.svg" width="26px" /></a> &ensp;&ensp;
