@@ -7,9 +7,9 @@
 &ensp;
 
 - `Ruby on Rails` Developer & `UI\UX` Designer.
-- Currently learning `Figma`.
+- a well-grounded `Rubyist`.
 - Having fun with `SVG` animations
-- Checkout my other projects!
+- Checkout my projects!
 
 <p>
 <a href="https://www.codewars.com/users/Sriram2311">
