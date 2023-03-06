@@ -63,8 +63,8 @@
 </div>
 &ensp;
 <div>
-    &ensp;
-    <a href="https://cockroachdb.cloud/"> <img alt=".cockroach" src="./images/cockroach-db.svg" width="26px" /></a> &ensp;&ensp;
+    &ensp;&ensp;
+    <a href="https://cockroachdb.cloud/"> <img alt=".cockroach" src="./images/graphql.svg" width="32px" /></a> &ensp;
     <a href="https://restfulapi.net/"> <img alt=".rest" src="./images/rest.svg" width="32px" /></a> &ensp;&ensp;
     <a href="https://render.com/"> <img alt=".render" src="./images/render.svg" width="26px" /></a> &ensp;&ensp;
     <a href="https://www.sqlite.org/index.html"> <img alt=".sqlite" src="./images/sqlite.svg" width="56px" /></a> &ensp;
