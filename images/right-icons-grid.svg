@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 673 1797" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-1427.718751,-614.604078)">
-        <g transform="matrix(0.288584,0,0,0.288584,1569.451034,716.971545)">
+<svg width="100%" height="100%" viewBox="0 0 687 1797" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1402.718751,-614.604078)">
+        <g transform="matrix(0.288584,0,0,0.288584,1592.914056,716.971545)">
             <g transform="matrix(1,0,0,1,-409.274583,-354.722875)">
                 <clipPath id="_clip1">
                     <rect x="0" y="0" width="818.549" height="709.446"/>
@@ -19,7 +19,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(0.421259,0,0,0.421259,1970.747626,716.971545)">
+        <g transform="matrix(0.421259,0,0,0.421259,1959.747626,710.971545)">
             <g transform="matrix(1,0,0,1,-308.412125,-207.250563)">
                 <clipPath id="_clip2">
                     <rect x="0" y="0" width="616.824" height="414.501"/>
@@ -36,7 +36,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(0.205283,0,0,0.205283,1569.451034,1649.096006)">
+        <g transform="matrix(0.275477,0,0,0.275477,1592.914056,1668.223111)">
             <g transform="matrix(1,0,0,1,-690.422208,-342.998708)">
                 <clipPath id="_clip3">
                     <rect x="0" y="0" width="1380.844" height="685.997"/>
@@ -344,7 +344,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(0.487329,0,0,0.487329,1569.451034,1968.520704)">
+        <g transform="matrix(0.487329,0,0,0.487329,1959.747626,1968.520704)">
             <g transform="matrix(1,0,0,1,-218.126292,-217.948104)">
                 <clipPath id="_clip4">
                     <rect x="0" y="0" width="436.253" height="435.896"/>
@@ -376,7 +376,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(0.311726,0,0,0.311726,1970.747626,1646.096006)">
+        <g transform="matrix(0.277061,0,0,0.277061,1959.747626,1668.223111)">
             <g transform="matrix(1,0,0,1,-341.001833,-341.037063)">
                 <clipPath id="_clip5">
                     <rect x="0" y="0" width="682.004" height="682.074"/>
@@ -459,7 +459,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(0.174738,0,0,0.174738,1970.747626,1968.520704)">
+        <g transform="matrix(0.174738,0,0,0.174738,1592.914056,1970.520704)">
             <g transform="matrix(1,0,0,1,-608.333333,-608.333333)">
                 <clipPath id="_clip6">
                     <rect x="0" y="0" width="1216.667" height="1216.667"/>
@@ -472,7 +472,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(0.094678,0,0,0.094678,1569.451034,1020.43708)">
+        <g transform="matrix(0.084158,0,0,0.084158,1959.747626,1019.666677)">
             <g transform="matrix(1,0,0,1,-1122.741521,-1118.880167)">
                 <clipPath id="_clip7">
                     <rect x="0" y="0" width="2245.483" height="2237.76"/>
@@ -492,7 +492,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(0.128954,0,0,0.128954,1569.451034,1326.497706)">
+        <g transform="matrix(0.128954,0,0,0.128954,1959.747626,1360.448558)">
             <g transform="matrix(1,0,0,1,-824.321604,-822.167125)">
                 <clipPath id="_clip8">
                     <rect x="0" y="0" width="1648.643" height="1644.334"/>
@@ -509,7 +509,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(0.499471,0,0,0.499471,1970.747626,1322.497706)">
+        <g transform="matrix(0.499471,0,0,0.499471,1592.914056,1365.448558)">
             <g transform="matrix(1,0,0,1,-177.352833,-250.504167)">
                 <clipPath id="_clip9">
                     <rect x="0" y="0" width="354.706" height="501.008"/>
@@ -554,7 +554,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(0.183336,0,0,0.183336,1970.747626,1020.43708)">
+        <g transform="matrix(0.183336,0,0,0.183336,1592.914056,1020.43708)">
             <g transform="matrix(1,0,0,1,-579.806167,-580.084604)">
                 <clipPath id="_clip10">
                     <rect x="0" y="0" width="1159.612" height="1160.169"/>
@@ -576,7 +576,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(0.227965,0,0,0.227965,1579.451738,2304.645571)">
+        <g transform="matrix(0.227965,0,0,0.227965,1592.914056,2304.645571)">
             <g transform="matrix(1,0,0,1,-466.2965,-466.149458)">
                 <clipPath id="_clip11">
                     <rect x="0" y="0" width="932.593" height="932.299"/>
@@ -596,7 +596,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(0.227965,0,0,0.227965,1969.451738,2304.645571)">
+        <g transform="matrix(0.227965,0,0,0.227965,1959.747626,2304.645571)">
             <g transform="matrix(1,0,0,1,-466.2965,-466.149458)">
                 <clipPath id="_clip12">
                     <rect x="0" y="0" width="932.593" height="932.299"/>
