@@ -11,7 +11,7 @@ The rest is in my portfolio: <br><br><a target="_blank" href="https://srira.me">
 
 <br/>
 
-<img src="invalid-src" width="1" />
+<img src="images/blank.svg" width="1" />
 <img align="left" src="images/left-icons-grid.svg" width="100" />
 <img align="right" src="images/right-icons-grid.svg" width="100" />
 <div align="center">
