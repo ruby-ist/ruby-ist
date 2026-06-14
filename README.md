@@ -1,4 +1,4 @@
-## Hi!
+## Hi 👋🏻!
 
 <div align="center">
 My name is <strong>Sriram V</strong>.<br/><br/>
