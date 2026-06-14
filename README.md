@@ -4,7 +4,7 @@
 My name is <strong>Sriram V</strong>.<br/><br/>
 A well-grounded <code>Rubyist</code> and a <code>Ruby on Rails</code> developer by profession.<br/><br/>
 Using <code>Vue.js</code> and <code>Nuxt.js</code> to bring my hobby projects and designs to life.<br/><br/>
-Live, love and code by <code>Object Oriented Design</code>.<br/><br/>
+Live, love and code by <em>Object Oriented Design</em>.<br/><br/>
 Captivated by <code>Elixir</code>.<br/><br/>
 The rest is in my portfolio: <br><br><a target="_blank" href="https://srira.me">https://srira.me</a>
 </div>
